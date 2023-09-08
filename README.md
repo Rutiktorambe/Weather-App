@@ -12,10 +12,9 @@ Check Out:-
 - Also Provide weather details of city that you want.
 
 ## Screenshot
-![Screenshot 2023-07-30 083348](https://github.com/Rutiktorambe/Weather-App/assets/114429614/22b0ec34-09f4-44c2-b8fa-39a61f7257a0)
 
-![Screenshot 2023-07-30 083413](https://github.com/Rutiktorambe/Weather-App/assets/114429614/913d5623-54ca-4894-a87b-37026b7245c1)
 
-![Screenshot 2023-07-30 083436](https://github.com/Rutiktorambe/Weather-App/assets/114429614/c0010536-8594-4a23-ae29-91f036161ba7)
+![Screenshot 2023-09-08 162020](https://github.com/Rutiktorambe/Weather-App/assets/114429614/6be82462-f8e7-4fce-b125-e04fd235c0ea)
+![Screenshot 2023-09-08 162225](https://github.com/Rutiktorambe/Weather-App/assets/114429614/e172baf2-4a84-4312-b18d-b194724b0e79)
+![Screenshot 2023-09-08 162158](https://github.com/Rutiktorambe/Weather-App/assets/114429614/f5a1861a-7de3-4eef-98de-eceac0baa954)
 
-![Screenshot 2023-07-30 083452](https://github.com/Rutiktorambe/Weather-App/assets/114429614/cbf215c8-fd88-4b8e-9783-bc3254cf87ee)
