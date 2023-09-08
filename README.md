@@ -4,7 +4,7 @@ Free API that used:-https://openweathermap.org/current
 
 Check Out:-
 
-## 🔗➡ [demo](https://theweatherapprutik24.vercel.app/)
+## 🔗➡ [demo](https://weatherapp-rutiktorambe.vercel.app/)
 
 ## Features
 - Provide real time update of weather of Your Location.
